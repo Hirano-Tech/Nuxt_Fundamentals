@@ -1,5 +1,4 @@
 <template>
-<template>
   <div class='container'>
     <article>
       <h1 class='title'>What is Balut?</h1>
